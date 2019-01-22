@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-	name = "demo",
+	name = "add",
 	version = "0.1",
 	url = 'https://github.com/culven/pytest.git',
 	long_description = open('README.md').read(),
